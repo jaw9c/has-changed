@@ -1,5 +1,5 @@
 # has-changed
-A script for to check for chnages in a given directory 
+A script for to check for changes in a given directory 
 
 # Usage
 
